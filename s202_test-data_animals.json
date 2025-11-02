@@ -34,4 +34,11 @@
   "classification": "Mammal",
   "habitat": "Savannah"
   "description": "The tallest land animal,known for its very long neck and legs. It lives in Africa."
+},
+  {
+  "animal": "Deer",
+  "classification": "Mammal",
+  "habitat": "Forests, meadows, and grasslands",
+  "diet": "Herbivore (leaves, grass, plants)",
+  "fun_fact": "Male deer grow antlers that they shed and regrow each year."
 }
